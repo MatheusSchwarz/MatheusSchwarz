@@ -18,7 +18,7 @@ Created on Thu Sep  1 16:21:37 2022
 #df.dtypes - retorna o nome da coluna e o tipo dela
 """comandos para manipulação básica"""
 #country = df["country"] - retorna somente a coluna country do df, como uma series
-#country = df[["country]] - retorna somente a coluna country do df, como um df
+#country = df[["country"]] - retorna somente a coluna country do df, como um df
 #df.drop(["continent", "country"], axis="colums") - apaga as colunas continent e country do df. Necessita o argumento axis para especificar que está largando uma coluna.
 #df.loc[0] - retorna a primeira linha como resultado
 #df.loc[[0,1]] - retorna a primeira e a segunda linha como resultado, procurando pelo index
