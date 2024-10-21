@@ -11,6 +11,7 @@ import pandas as pd
 import json
 import plotly.express as px
 
+#No site do IBGE tem o arquivo completo com o json para conseguir fazer o mapa
 #with urlopen("https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?formato=application/vnd.geo+json&qualidade=maxima&intrarregiao=UF") as response:
 #    geojson = json.load(response, encoding='ISO-8859–1')
 
