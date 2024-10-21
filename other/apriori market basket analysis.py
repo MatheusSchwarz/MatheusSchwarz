@@ -10,7 +10,7 @@ from mlxtend.frequent_patterns import association_rules
 from mlxtend.frequent_patterns import fpgrowth
 import pandas as pd
 
-df = pd.read_excel(r'C:\Users\ma057659\Desktop\Trabalho\Python aprendizado\apriori intelbras.xlsx')
+df = pd.read_excel(r'C:\Users\ma057659\Desktop\Trabalho\Python\apriori.xlsx')
 
 df1 = pd.pivot_table(data=df, values='Qtd. SellOut', index='Revenda', columns='Item')
 
