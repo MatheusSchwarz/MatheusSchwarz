@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusSchwarz
-- 👀 I’m interested in using datas science in market intelligence
-- 🌱 I’m currently learning data sciece and AI
+- 👀 I’m interested in using data science in market intelligence
+- 🌱 I’m currently learning AI and django
 - 💞️ I’m looking to collaborate in public databases
 - 📫 How to reach me: matheusmschwarz@gmail.com
 
